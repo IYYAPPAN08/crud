@@ -1,0 +1,1 @@
+export const API_URL="https://672990d96d5fa4901b6d8eee.mockapi.io/iyy";
